@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Modules**
 
-- 👨‍💻 All of my projects are available at [Portfolio under construction](Portfolio under construction)
+- 👨‍💻 All of my projects are available at [Portfolio under construction]
 
 - 💬 Ask me about **Java, JavaScript**
 
