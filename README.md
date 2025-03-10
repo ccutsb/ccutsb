@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Spring Modules**
 
-- 👨‍💻 All of my projects are available at my [Portfolio ](ccutsb.github.io)
+- 👨‍💻 All of my projects are available at my [Portfolio ](https://ccutsb.github.io)
+
 
 - 💬 Ask me about **Java, JavaScript**
 
