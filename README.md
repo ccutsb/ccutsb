@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">Welcome to my self-taught backend journey👨🏻‍💻</h3>
 
-- 🔭 I’m currently working on my [ScreenMatch Project](https://github.com/ccutsb/Java-POO-Screenmatch)
-
-- 🌱 I’m currently learning **Spring Modules**
-
 - 👨‍💻 All of my projects are available at my [Portfolio ](https://ccutsb.github.io)
 
 
