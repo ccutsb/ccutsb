@@ -1,6 +1,5 @@
 # Hello, I'm Cristian Cortes
 
----
 
 ## About Me
 
