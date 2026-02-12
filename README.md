@@ -13,13 +13,11 @@ My current goals are:
 Contact me📩: **https://ccutsb.github.io/#contacto**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ccutsb" alt="ccutsb" /> </p>
 
----
-
 ## Technologies
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
@@ -38,7 +36,7 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 ![Maven](https://img.shields.io/badge/Maven-000?logo=apachemaven)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
@@ -56,8 +54,6 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 </tr>
 </table>
 
----
-
 ## Connect🤝
 
   <a href="https://www.linkedin.com/in/ccortesbustamante/" target="_blank">
@@ -66,4 +62,4 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 
 ---
 
-"Consistency beats talent when talent is not consistent."
+### "Consistency beats talent when talent is not consistent."
