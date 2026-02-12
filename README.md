@@ -1,9 +1,5 @@
 # Hello, I'm Cristian Cortes
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Future+Software+Developer;Focused+on+continuous+learning" alt="Typing SVG" />
-</p>
-
 ---
 
 ## About Me
@@ -46,19 +42,6 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-000?logo=postman)
-
----
-
-## GitHub Statistics📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccutsb&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?ccutsb&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccutsb&layout=compact&theme=tokyonight" height="165" />
-</p>
 
 ---
 
