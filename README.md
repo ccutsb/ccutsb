@@ -15,38 +15,47 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 
 ---
 
-## Technologies 
-<p align="left">
-  
+## Technologies
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
 ![Java](https://img.shields.io/badge/Java-000?logo=java)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
 ![React](https://img.shields.io/badge/React-000?logo=react)
+![Figma](https://img.shields.io/badge/Figma-000?logo=figma)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?logo=express)
-![Spring](https://img.shields.io/badge/Spring-000?logo=Spring)
+![Spring](https://img.shields.io/badge/Spring-000?logo=spring)
+![Maven](https://img.shields.io/badge/Maven-000?logo=apachemaven)
 
-</p>
-<p align="right">
+</td>
+<td valign="top" width="50%">
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
 
-### Tools
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000?logo=IntelliJ)
 ![Postman](https://img.shields.io/badge/Postman-000?logo=postman)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 
-</p>
+</td>
+</tr>
+</table>
+
 ---
 
 ## Connect🤝
