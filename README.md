@@ -11,6 +11,7 @@ My current goals are:
 - Applying best practices, clean architecture, and problem‑solving skills
 
 Contact me📩: **https://ccutsb.github.io/#contacto**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ccutsb" alt="ccutsb" /> </p>
 
 ---
 
@@ -19,7 +20,7 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
-![C++](https://img.shields.io/badge/C++-000?logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-000?logo=java)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
@@ -29,6 +30,7 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?logo=express)
+![Spring](https://img.shields.io/badge/Spring-000?logo=Spring)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
