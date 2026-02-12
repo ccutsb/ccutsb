@@ -14,7 +14,7 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 
 ---
 
-## Technologies in Progress
+## Technologies 
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
