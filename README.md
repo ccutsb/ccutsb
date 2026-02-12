@@ -17,7 +17,7 @@ My current goals are:
 - Advancing in modern web development
 - Applying best practices, clean architecture, and problem‑solving skills
 
-Contact📩: **(cristiancortesb@icloud.com)**
+Contact me📩: **https://ccutsb.github.io/#contacto**
 
 ---
 
@@ -52,8 +52,8 @@ Contact📩: **(cristiancortesb@icloud.com)**
 ## GitHub Statistics📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ccutsb&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?ccutsb&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
@@ -65,16 +65,10 @@ Contact📩: **(cristiancortesb@icloud.com)**
 ## Connect🤝
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/ccortesbustamante/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
-  <a href="mailto:TU-CORREO" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" />
-  </a>
-</p>
 
 ---
 
-> "Consistency beats talent when talent is not consistent."
-
----
+"Consistency beats talent when talent is not consistent."
