@@ -17,7 +17,7 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
