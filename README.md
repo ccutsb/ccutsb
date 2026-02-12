@@ -1,8 +1,6 @@
 # Hello, I'm Cristian Cortes
 
 
-## About Me
-
 I have several years of professional experience working in **IT Support**, complemented by **self‑taught studies in technology and programming**.
 
 In **2026**, I am beginning my formal studies in **Computer Engineering (Engineering in Computer Science)** with a strong focus on **software development** and building real‑world solutions.
