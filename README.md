@@ -57,14 +57,13 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccutsb&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
 ## Connect🤝
 
-<p align="center">
   <a href="https://www.linkedin.com/in/ccortesbustamante/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
