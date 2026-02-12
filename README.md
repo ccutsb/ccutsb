@@ -16,7 +16,8 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 ---
 
 ## Technologies 
-
+<p align="left">
+  
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?logo=python)
@@ -32,6 +33,9 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 ![Express](https://img.shields.io/badge/Express-000?logo=express)
 ![Spring](https://img.shields.io/badge/Spring-000?logo=Spring)
 
+</p>
+<p align="right">
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)
@@ -42,6 +46,7 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 ![VS Code](https://img.shields.io/badge/VS%20Code-000?logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-000?logo=postman)
 
+</p>
 ---
 
 ## Connect🤝
