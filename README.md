@@ -59,7 +59,3 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
   <a href="https://www.linkedin.com/in/ccortesbustamante/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
-
----
-
-### "Consistency beats talent when talent is not consistent."
