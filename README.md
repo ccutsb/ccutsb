@@ -1,14 +1,15 @@
-# Hello, I'm Cristian Cortes
+### Hi, I'm Cristian.
 
+🛠️ IT Support Technician (Tier 1/Tier 2) based in Santiago, Chile — moving into software development.
+💻 Learning backend with Java / Spring Boot and frontend with React.
+🌐 Bilingual: Spanish (native) · English (C1).
 
-I have several years of professional experience working in **IT Support**, complemented by **self‑taught studies in technology and programming**.
+**Tech I work with**
+`Java` `Spring Boot` `Python` `JavaScript` `React` `MySQL` `Git` `Linux`
 
-In **2026**, I am beginning my formal studies in **Computer Engineering (Engineering in Computer Science)** with a strong focus on **software development** and building real‑world solutions.
-
-My current goals are:
-- Strengthening programming and software development fundamentals
-- Advancing in modern web development
-- Applying best practices, clean architecture, and problem‑solving skills
+**Currently**
+- Pursuing a degree in Computer Engineering
+- Building projects to grow my software portfolio
 
 Contact me📩: **https://ccutsb.github.io/#contacto**
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ccutsb" alt="ccutsb" /> </p>
