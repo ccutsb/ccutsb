@@ -1,8 +1,8 @@
 ### Hi, I'm Cristian.
 
-🛠️ IT Support Technician (Tier 1/Tier 2) based in Santiago, Chile — moving into software development.
-💻 Learning backend with Java / Spring Boot and frontend with React.
-🌐 Bilingual: Spanish (native) · English (C1).
+🛠️ IT Support Technician (Tier 1/Tier 2) based in Santiago, Chile — moving into software development.<br>
+💻 Learning backend with Java / Spring Boot and frontend with React.<br>
+🌐 Bilingual: Spanish (native) · English (C1).<br>
 
 **Currently**
 - Pursuing a degree in Computer Engineering
