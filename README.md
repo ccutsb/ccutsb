@@ -4,17 +4,11 @@
 💻 Learning backend with Java / Spring Boot and frontend with React.
 🌐 Bilingual: Spanish (native) · English (C1).
 
-**Tech I work with**
-`Java` `Spring Boot` `Python` `JavaScript` `React` `MySQL` `Git` `Linux`
-
 **Currently**
 - Pursuing a degree in Computer Engineering
 - Building projects to grow my software portfolio
 
-Contact me📩: **https://ccutsb.github.io/#contacto**
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ccutsb" alt="ccutsb" /> </p>
-
-## Technologies
+## Tech I work with
 
 <table>
 <tr>
@@ -56,6 +50,9 @@ Contact me📩: **https://ccutsb.github.io/#contacto**
 </table>
 
 ## Connect🤝
+
+Contact me📩: **https://ccutsb.github.io/#contacto**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ccutsb" alt="ccutsb" /> </p>
 
   <a href="https://www.linkedin.com/in/ccortesbustamante/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
