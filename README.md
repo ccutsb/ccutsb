@@ -52,8 +52,9 @@
 ## Connect🤝
 
 Contact me📩: **https://ccutsb.github.io/#contacto**
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ccutsb" alt="ccutsb" /> </p>
 
   <a href="https://www.linkedin.com/in/ccortesbustamante/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" />
   </a>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ccutsb" alt="ccutsb" /> </p>
